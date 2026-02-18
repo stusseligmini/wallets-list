@@ -813,3 +813,23 @@
     ]
   }
 ]
+{
+  "app_name": "nonada",
+  "name": "NoNada Wallet",
+  "image": "https://nonadawallet.com/icon-288.png",
+  "about_url": "https://nonadawallet.com",
+  "bridge": [
+    {
+      "type": "js",
+      "key": "nonada"
+    }
+  ],
+  "platforms": ["chrome"],
+  "features": [
+    {
+      "name": "SendTransaction",
+      "maxMessages": 255,
+      "extraCurrencySupported": false
+    }
+  ]
+}
