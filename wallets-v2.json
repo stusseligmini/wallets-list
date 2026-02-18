@@ -1009,6 +1009,7 @@
         "maxMessages": 255,
         "extraCurrencySupported": false
       }
-    ]
+    ],
+    "universal_url": "https://t.me/NoNadaWalletBot?attach=wallet"
   }
 ]
